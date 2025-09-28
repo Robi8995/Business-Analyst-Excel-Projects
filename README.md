@@ -128,7 +128,7 @@ This repository contains detailed **Excel-based projects** demonstrating data an
 
 **Excel Features Used:** Pivot Tables, Charts, Formulas, Filters  
 
-[Download Excel File](./Bank-Customer-Segmentation-Analysis-[Excel].xls)
+[Download Excel File](./Bank-Customer-Segmentation-Analysis-[Excel].xlsx)
 
 ---
 
